@@ -8,15 +8,13 @@
 <br>
 
 ## Download
-* Download the latest release [here](https://bit.ly/imspeed-releases)  
+* Download the latest release [here](https://github.com/emermacko/adobeRGB-renamer/releases)  
   
 <br>
   
 ## Add To context menu (.exe)
 
-**Follow the tutorial [here](https://stackoverflow.com/questions/48597700/adding-a-context-menu-item-in-windows-for-a-specific-file-extension)**
-
-<br>
+- **Follow the tutorial [here](https://stackoverflow.com/questions/48597700/adding-a-context-menu-item-in-windows-for-a-specific-file-extension)**
 
 * **Adding icon (optional):**
 	* rightclick on your parent key & create new string value, name it "icon"
