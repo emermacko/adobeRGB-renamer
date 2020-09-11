@@ -32,6 +32,7 @@ Currently supported camera brands (RAW/JPG):
 	- Fujifilm 
 	
 <br>
+
 --- 
 
-* Feel free to request new brand support, just provide both, sRGB and AdobeRGB files.
+Feel free to request new brand support, just provide both, sRGB and AdobeRGB files.
