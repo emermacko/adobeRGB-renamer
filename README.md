@@ -25,11 +25,11 @@
 <br>
  
 ## Support
-Currently supported camera brands (RAW/JPG): 
-	- Canon  
-	- Nikon  
-	- Sony  
-	- Fujifilm 
+Currently supported camera brands (RAW/JPG):
+- Canon  
+- Nikon  
+- Sony  
+- Fujifilm 
 	
 <br>
 
