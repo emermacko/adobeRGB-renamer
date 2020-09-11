@@ -14,14 +14,7 @@
   
 ## Add To context menu (.exe)
 
-* start regedit
-* navigate to: `Computer\HKEY_CLASSES_ROOT\Directory\shell\`
-* rightclick on shell & create new key (its name will be displayed in the context menu)
-* rightclick on your new key & create new key, name it `"command"`
-* set the `"Default"` value to program path and add "%1" after space
-
-	> for example: `"C:\Desktop\AdobeRGB.exe" "%1"`
-<br>
+### Follow the tutorial [here](https://stackoverflow.com/questions/48597700/adding-a-context-menu-item-in-windows-for-a-specific-file-extension)
 
 * **Adding icon (optional):**
 	* rightclick on your parent key & create new string value, name it "icon"
