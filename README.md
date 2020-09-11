@@ -14,7 +14,9 @@
   
 ## Add To context menu (.exe)
 
-### Follow the tutorial [here](https://stackoverflow.com/questions/48597700/adding-a-context-menu-item-in-windows-for-a-specific-file-extension)
+**Follow the tutorial [here](https://stackoverflow.com/questions/48597700/adding-a-context-menu-item-in-windows-for-a-specific-file-extension)**
+
+<br>
 
 * **Adding icon (optional):**
 	* rightclick on your parent key & create new string value, name it "icon"
@@ -22,11 +24,14 @@
 		> for example: `"C:\Desktop\AdobeRGB.exe"`
 <br>
  
-- ### **Currently supported camera brands (RAW/JPG):** 
+## Support
+Currently supported camera brands (RAW/JPG): 
 	- Canon  
 	- Nikon  
 	- Sony  
 	- Fujifilm 
+	
 <br>
+--- 
 
 * Feel free to request new brand support, just provide both, sRGB and AdobeRGB files.
